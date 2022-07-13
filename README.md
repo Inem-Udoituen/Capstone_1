@@ -2,12 +2,12 @@
 
 -----
 # Problem Objective: 
-This was the first group capstone project given to Data Analytics interns in the side hustle internship programme (Cohort 5.0, May 2022). The capstone project was aimed at giving interns a hands-on experience of how and when to use some excel functions. This was more of an analysis.
+This was the first group capstone project given to Data Analytics interns in the Side Hustle internship programme (Cohort 5.0, May 2022). The capstone project was aimed at giving interns a hands-on experience of how and when to use some excel functions. This project was more of an analysis.
 
 -------
 
 # Data Sourcing: 
-The data was provided by the mentor
+The data was provided by the mentor.
 
 ---------
 # Data Transformation: 
@@ -19,7 +19,7 @@ A few formattings were carried out on the data to make it fit for analysis. Chan
 -------
 # Analysis: 
 
-The analysis was done based on the given questions. Some of the questions and the accompanying analysis are shown below
+The analysis was done based on the given questions. The questions and the accompanying analysis are shown below
 
 ----
 # Question 1: 
@@ -99,3 +99,6 @@ HTML/CSS Bootcamp
 VLOOKUP function was used to achieve this.
 
 -----
+# Conclusion: 
+
+This analysis' objective was achieved as it gave interns the hands-on experience on applying excel functions.
